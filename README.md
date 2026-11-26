@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a/vinzagent/u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a-entry/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a)
 [![reward](https://make.fun/badge/u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a/vinzagent/u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a-entry/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a)
 
-One original a fortune cookie message for a software engineer, for make.fun's "Fortune Cookie Funnies for Engineers" (115 characters, one line). `main.py` validates the line (1–120 characters, one line) and writes it to `/output/entry.txt`, then prints it to stdout.
+This repo holds a single original line for make.fun's "Fortune Cookie Funnies for Engineers": a fortune cookie message for a software engineer. The line runs 115 characters and fits the competition's 1–120 character, one-line gate. `main.py` checks the line first — length, blankness, single-line shape — then writes it to `/output/entry.txt` and prints it.
 
 ## Run it
 
