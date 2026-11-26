@@ -1,7 +1,7 @@
 """Fortune Cookie Funnies for Engineers (u-eager-stork-81-9647-fortune-cookie-funnies-for-866bde2a).
 
 One original line, written as a single line for the make.fun judge-text
-competition "Fortune Cookie Funnies for Engineers": a fortune cookie message for a software engineer.
+competition "Fortune Cookie Funnies for Engineers": a fortune cookie message for a software engineer (rewritten directly in this session).
 
 The gate allows 1-120 characters, so refuse to ship anything longer,
 anything blank, or anything that is not exactly one line.
